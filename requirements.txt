@@ -1,0 +1,21 @@
+# Core LangChain Packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-classic
+
+# Integration Packages
+langchain-google-genai 
+
+# Data Processing & Storage
+pypdf
+faiss-cpu
+sentence-transformers 
+unstructured
+openpyxl
+pandas
+
+# UI and Environment
+streamlit
+python-dotenv
